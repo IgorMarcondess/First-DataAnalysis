@@ -1,4 +1,4 @@
-# First-DataAnalysis 
+# First Data Analysis: Variação de Preços em Materiais de Artesanato e Construção
 
 Este projeto foi desenvolvido com o objetivo de aprofundar o conhecimento em análise de dados, focando na variação de preços e nas tendências de alta e baixa de materiais utilizados em artesanato e construção.
 
