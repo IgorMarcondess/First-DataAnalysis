@@ -15,4 +15,4 @@ Este projeto foi desenvolvido com o objetivo de aprofundar o conhecimento em an�
 
 ## Contribuições
 
-1. **Clonar projeto**: `git clone https://github.com/Fernanda-Kipper/Readme-Templates.git`
+1. **Clonar projeto**: `git clone https://github.com/IgorMarcondess/First-DataAnalysis`
